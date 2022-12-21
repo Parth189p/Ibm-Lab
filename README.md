@@ -1,2 +1,2 @@
 # Ibm-Lab
-This Is how I  learn Python
+This is how I learn Python
